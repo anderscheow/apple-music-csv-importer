@@ -1,0 +1,1 @@
+Follow the project instructions in `AGENTS.md`. Keep credentials and personal playlist data out of the repository, preserve explicit review of uncertain matches, and run the documented checks for code changes.

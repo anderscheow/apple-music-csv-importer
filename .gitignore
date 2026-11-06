@@ -1,0 +1,21 @@
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+.codegraph/
+
+# Local credentials and private keys
+.env
+.env.*
+!.env.example
+*.p8
+*.pem
+*.key
+
+# User playlists and generated reports; keep the public sample
+*.csv
+!public/sample-playlist.csv
+
+# OS and editor files
+.DS_Store
+*.log
