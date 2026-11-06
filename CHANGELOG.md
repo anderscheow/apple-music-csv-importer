@@ -6,6 +6,7 @@ All notable project changes will be recorded here. Entries are grouped under **U
 
 ### Added
 
+- MIT license.
 - Local CSV import into new or existing Apple Music playlists, with match review and optional duplicate prevention.
 - ISRC lookup, optional remaster preference, live recording filters, and a cleaned playlist copy workflow.
 - Optional deep matching for artist aliases and Chinese catalog titles, with unconfirmed results left for review.

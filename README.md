@@ -90,3 +90,7 @@ npm run build  # TypeScript check and Vite production build
 - [Add tracks to a playlist](https://developer.apple.com/documentation/applemusicapi/add-tracks-to-a-library-playlist)
 - [Look up catalog songs by ISRC](https://developer.apple.com/documentation/applemusicapi/get-multiple-catalog-songs-by-isrc)
 - [Get equivalent catalog songs](https://developer.apple.com/documentation/applemusicapi/get-equivalent-ids-for-the-albums-3ce20)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
